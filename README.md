@@ -6,7 +6,7 @@ An interactive Power BI dashboard providing deep-dive insights into sales trends
 ---
 
 ## 🖼️ Dashboard Preview
-![https://github.com/snehalgaikwad032000/Awesome-Chocolates-Co-Analytics-Dashboard/blob/main/Awesome%20Chocolates%20Dashboard.png?raw=true]
+![https://github.com/snehalgaikwad032000/Awesome-Chocolates-Co-Analytics-Dashboard/blob/main/Awesome%20Chocolates%20Dashboard.png]
 
 ---
 
