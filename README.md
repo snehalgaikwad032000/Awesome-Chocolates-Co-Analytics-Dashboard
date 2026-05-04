@@ -1,7 +1,7 @@
 # Awesome-Chocolates-PowerBI-Analysis
 # 🍫 Awesome Chocolates: Sales & Performance Analytics
 
-An interactive Power BI dashboard providing deep-dive insights into sales trends, product performance, and team efficiency[cite: 1].
+An interactive Power BI dashboard providing deep-dive insights into sales trends, product performance, and team efficiency.
 
 ---
 
