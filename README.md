@@ -11,13 +11,13 @@ An interactive Power BI dashboard providing deep-dive insights into sales trends
 ---
 
 ## 🎯 Project Objective
-The goal of this project is to provide the management team at **Awesome Chocolates** with a 360-degree view of their business operations. It focuses on identifying top-performing products and evaluating the sales force's impact across different regions[cite: 1].
+The goal of this project is to provide the management team at **Awesome Chocolates** with a 360-degree view of their business operations. It focuses on identifying top-performing products and evaluating the sales force's impact across different regions].
 
 ## 🛠️ Technical Implementation
-*   **Data Modeling**: Developed a robust star schema (`DataModelSchema`) to link sales facts with geography, products, and personnel[cite: 1].
-*   **Custom Branding**: Integrated the official **Awesome Chocolates logo** and custom-designed icons for **People** and **Product** highlights[cite: 1].
-*   **Professional UI**: Applied the **City Park** JSON theme to ensure a cohesive and modern visual experience[cite: 1].
-*   **Interactive Layout**: Built a dynamic report structure (`Report/Layout`) that supports cross-filtering and drill-through capabilities[cite: 1].
+*   **Data Modeling**: Developed a robust star schema (`DataModelSchema`) to link sales facts with geography, products, and personnel.
+*   **Custom Branding**: Integrated the official **Awesome Chocolates logo** and custom-designed icons for **People** and **Product** highlights.
+*   **Professional UI**: Applied the **City Park** JSON theme to ensure a cohesive and modern visual experience.
+*   **Interactive Layout**: Built a dynamic report structure (`Report/Layout`) that supports cross-filtering and drill-through capabilities.
 
 ## 📈 Key Insights
 *   **Product Analysis**: Pinpoint which chocolate varieties are driving the most revenue.
@@ -25,7 +25,7 @@ The goal of this project is to provide the management team at **Awesome Chocolat
 *   **Trend Tracking**: Monitor sales growth and seasonal fluctuations.
 
 ## 🚀 How to Use
-1.  Download the `Awesome chocolates pbi project.pbit` file from this repository[cite: 1].
+1.  Download the `Awesome chocolates pbi project.pbit` file from this repository.
 2.  Open the file using **Power BI Desktop**.
 3.  Connect your data source if prompted, or explore the pre-built visuals and data model.
 
