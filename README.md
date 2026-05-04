@@ -14,8 +14,9 @@ An interactive Power BI dashboard providing deep-dive insights into sales trends
 The goal of this project is to provide the management team at **Awesome Chocolates** with a 360-degree view of their business operations. It focuses on identifying top-performing products and evaluating the sales force's impact across different regions].
 
 ## 🛠️ Technical Implementation
+*   **Advanced DAX Measures**: Engineered a suite of custom measures to calculate dynamic KPIs, ensuring the dashboard provides real-time mathematical accuracy.
 *   **Data Modeling**: Developed a robust star schema (`DataModelSchema`) to link sales facts with geography, products, and personnel.
-*   **Custom Branding**: Integrated the official **Awesome Chocolates logo** and custom-designed icons for **People** and **Product** highlights.
+*   **Interactive People and Product Toggle**: A standout feature of this dashboard is the **custom navigation toggle**, which allows users to switch between two core analytical lenses without leaving the page
 *   **Professional UI**: Applied the **City Park** JSON theme to ensure a cohesive and modern visual experience.
 *   **Interactive Layout**: Built a dynamic report structure (`Report/Layout`) that supports cross-filtering and drill-through capabilities.
 
